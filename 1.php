@@ -1,3 +1,4 @@
 <?php
 
-var_dump(123);
+require_once './src/aaa.php';
+

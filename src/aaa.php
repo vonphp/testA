@@ -1,6 +1,6 @@
 <?php
 
-namespace testA/aaa;
+namespace test/aaa;
 
 class aaa
 {
